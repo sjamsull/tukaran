@@ -223,9 +223,9 @@ async function runWalletTasks(privateKey, index, options = {}) {
 async function showMenu() {
   console.clear();
   console.log(rocket("============================================"));
-  console.log(rocket("        Selamat Datang di Testnet Bot       "));
+  console.log(rocket("        Selamat Datang Anang JEPEH NI BOS       "));
   console.log(rocket("============================================"));
-  console.log("Bot ini mendukung beberapa fungsi interaksi ");
+  console.log("Bot ini untuk testnet HERAFI ");
   console.log("dengan kontrak blockchain testnet.\n");
 
   console.log(info("[1] Klaim Faucet"));
